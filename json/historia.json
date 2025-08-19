@@ -1,0 +1,12 @@
+{
+    "imagenes": [
+      { "src": "https://gaeldd2.github.io/API-Stacy-s-Salon/img/Historia1.jpg", "alt": "img 1", "clase": "img-fluid rounded shadow-sm img-historia" },
+      { "src": "https://gaeldd2.github.io/API-Stacy-s-Salon/img/Historia2.jpg", "alt": "img 2", "clase": "img-fluid rounded shadow-sm img-historia" },
+      { "src": "https://gaeldd2.github.io/API-Stacy-s-Salon/img/Historia3.jpg", "alt": "img 3", "clase": "img-fluid rounded shadow-sm img-historia" },
+      { "src": "https://gaeldd2.github.io/API-Stacy-s-Salon/img/Salon2.jpeg", "alt": "img 15", "clase": "img-fluid rounded shadow-sm img-historia" },
+      { "src": "https://gaeldd2.github.io/API-Stacy-s-Salon/img/Video1.mp4", "alt": "img 15", "clase": "img-fluid rounded shadow-sm img-historia" },
+      { "src": "https://gaeldd2.github.io/API-Stacy-s-Salon/img/Ss logo 4.png", "alt": "img 15", "clase": "img-fluid rounded shadow-sm img-historia" }
+
+
+    ]
+  }
